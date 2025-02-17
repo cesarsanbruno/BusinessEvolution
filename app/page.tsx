@@ -95,7 +95,7 @@ export default function Page() {
               <span>transforming businesses through artificial intelligence</span>
             </div>
             <h1 className="text-6xl md:text-7xl font-bold mb-6 tracking-tight fade-in delay-1">
-              Evolve Your Business<br />with AI-Powered Solutions
+              Evolve Your Business XX<br />with AI-Powered Solutions
             </h1>
             <p className="text-xl text-[#1B2714]/70 mb-8 max-w-3xl mx-auto fade-in delay-2">
               Transform your business operations with our AI-driven platform. Automate workflows, 
