@@ -64,7 +64,7 @@ export default function Page() {
       <header className="flex items-center justify-between py-4 px-6">
         <div className="flex items-center gap-2">
           <Link href="/" className="text-xl font-bold flex items-center gap-2">
-            <div className="w-8 h-8 bg-[#FFE600] rounded-lg flex items-center justify-center text-[#1B2714]">
+            <div className="w-8 h-8 bg-[#656ec7] rounded-lg flex items-center justify-center text-[#1B2714]">
               BE
             </div>
             BusinessEvolution.ai
@@ -91,7 +91,7 @@ export default function Page() {
         {/* Hero Section */}
         <section className="py-20 px-6 relative">
           <div className="max-w-[1200px] mx-auto text-center relative z-10">
-            <div className="inline-flex items-center px-3 py-1 text-sm bg-[#1B2714] text-[#FFE600] mb-8 rounded-full fade-in">
+            <div className="inline-flex items-center px-3 py-1 text-sm bg-[#1B2714] text-[#656ec7] mb-8 rounded-full fade-in">
               <span>transforming businesses through artificial intelligence</span>
             </div>
             <h1 className="text-6xl md:text-7xl font-bold mb-6 tracking-tight fade-in delay-1">
@@ -132,7 +132,7 @@ export default function Page() {
             </h2>
             <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
               <div className="p-6 bg-white rounded-lg shadow-sm scroll-animation scroll-delay-1">
-                <div className="w-12 h-12 bg-[#FFE600] rounded-lg mb-4 mx-auto flex items-center justify-center">
+                <div className="w-12 h-12 bg-[#656ec7] rounded-lg mb-4 mx-auto flex items-center justify-center">
                   <svg className="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                     <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M13 10V3L4 14h7v7l9-11h-7z" />
                   </svg>
@@ -141,7 +141,7 @@ export default function Page() {
                 <p className="text-[#1B2714]/70">Streamline operations and eliminate repetitive tasks with AI-powered automation</p>
               </div>
               <div className="p-6 bg-white rounded-lg shadow-sm scroll-animation scroll-delay-2">
-                <div className="w-12 h-12 bg-[#FFE600] rounded-lg mb-4 mx-auto flex items-center justify-center">
+                <div className="w-12 h-12 bg-[#656ec7] rounded-lg mb-4 mx-auto flex items-center justify-center">
                   <svg className="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                     <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M9 19v-6a2 2 0 00-2-2H5a2 2 0 00-2 2v6a2 2 0 002 2h2a2 2 0 002-2zm0 0V9a2 2 0 012-2h2a2 2 0 012 2v10m-6 0a2 2 0 002 2h2a2 2 0 002-2m0 0V5a2 2 0 012-2h2a2 2 0 012 2v14a2 2 0 01-2 2h-2a2 2 0 01-2-2z" />
                   </svg>
@@ -150,7 +150,7 @@ export default function Page() {
                 <p className="text-[#1B2714]/70">Make data-driven decisions with advanced AI analytics and insights</p>
               </div>
               <div className="p-6 bg-white rounded-lg shadow-sm scroll-animation scroll-delay-3">
-                <div className="w-12 h-12 bg-[#FFE600] rounded-lg mb-4 mx-auto flex items-center justify-center">
+                <div className="w-12 h-12 bg-[#656ec7] rounded-lg mb-4 mx-auto flex items-center justify-center">
                   <svg className="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                     <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M12 8v4l3 3m6-3a9 9 0 11-18 0 9 9 0 0118 0z" />
                   </svg>
