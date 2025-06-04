@@ -91,7 +91,7 @@ export default function Page() {
         {/* Hero Section */}
         <section className="py-20 px-6 relative">
           <div className="max-w-[1200px] mx-auto text-center relative z-10">
-            <div className="inline-flex items-center px-3 py-1 text-sm bg-[#1B2714] text-[#656ec7] mb-8 rounded-full fade-in">
+            <div className="inline-flex items-center px-3 py-1 text-sm bg-[#1B2714] text-white mb-8 rounded-full fade-in">
               <span>transforming businesses through artificial intelligence</span>
             </div>
             <h1 className="text-6xl md:text-7xl font-bold mb-6 tracking-tight fade-in delay-1">
