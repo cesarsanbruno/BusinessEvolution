@@ -4,6 +4,7 @@ import { Button } from "@/components/ui/button"
 import Link from "next/link"
 import { useEffect, useRef } from "react"
 import Image from "next/image"
+import AIChat from './components/AIChat'
 
 export default function Page() {
   const observerRef = useRef<IntersectionObserver | null>(null);
@@ -160,6 +161,11 @@ export default function Page() {
               </div>
             </div>
           </div>
+        </section>
+
+        {/* Chat Section */}
+        <section className="py-20 px-6">
+          <AIChat />
         </section>
       </main>
     </div>
