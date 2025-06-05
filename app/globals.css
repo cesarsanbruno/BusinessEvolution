@@ -30,6 +30,17 @@
     --input: 0 0% 90%;
     --ring: 88 31% 12%;
     --radius: 0.5rem;
+    --chat-color-primary: #007BFF;
+    --chat-color-header: var(--chat-color-primary);
+    --chat-color-icon: var(--chat-color-primary);
+  }
+
+  #n8n-chat {
+    --chat--color-primary: var(--chat-color-primary);
+    --chat--header--background: var(--chat-color-header);
+    --chat--toggle--background: var(--chat-color-icon);
+    --chat--toggle--hover--background: darken(var(--chat-color-icon), 10%);
+    --chat--toggle--active--background: darken(var(--chat-color-icon), 20%);
   }
 }
 
